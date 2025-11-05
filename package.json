@@ -1,0 +1,23 @@
+{
+  "name": "eli5-explainer",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "ClariFYI - Explain anything in simple terms!",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@google/genai": "^1.28.0"
+  },
+  "devDependencies": {
+    "vercel": "^34.0.0"
+  },
+  "keywords": [
+    "eli5",
+    "explainer",
+    "gemini",
+    "ai"
+  ],
+  "author": "",
+  "license": "MIT"
+}
