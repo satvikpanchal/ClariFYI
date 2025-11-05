@@ -1,4 +1,4 @@
-# ClariFYI
+# Explainify
 
 A beautiful, minimal web application that simplifies complex text into easy-to-understand explanations!
 

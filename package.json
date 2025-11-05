@@ -2,7 +2,7 @@
   "name": "eli5-explainer",
   "version": "1.0.0",
   "type": "module",
-  "description": "ClariFYI - Explain anything in simple terms!",
+  "description": "Explainify - Explain anything in simple terms!",
   "scripts": {
     "dev": "vercel dev"
   },
